@@ -1,0 +1,26 @@
+body {
+    background-color: #BC430D;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #F09410;
+    text-decoration:underline;
+
+}
+
+div {
+    color: #FEEAF0;
+    text-decoration: underline;
+    text-align: center;
+}
+p {
+    color:#FEEAF0;
+    text-decoration:underline;
+}
+h2 {
+    color: #F0D0C7;
+    text-align: center;
+    text-decoration: underline wheat;
+}
